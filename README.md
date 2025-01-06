@@ -3,7 +3,7 @@
 
 1. Clone this repository
     ```bash
-    git clone https://github.com/yourusername/Reversestring.git
+    git clone https://github.com/sayyadmosin/Reversestring.git
     ```
 
 2. Navigate to project directory
